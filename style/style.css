@@ -48,5 +48,37 @@ header{
     padding-bottom: 177px;
 
 }
+.discount-content h1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.discount-content p{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.discount-content h2{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    
+}
+.happy-new-year {
+    width: 802.9px;
+    height: 500px;
+    margin: auto;
+    border: 1px solid black;
+    
+    /* flex-shrink: 0; */
+}
+
 
 
